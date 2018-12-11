@@ -1,0 +1,25 @@
+.header{
+	background-color: SlateBlue;
+	min-height: 150px;
+
+}
+.body{
+	border: 1px solid black;
+	overflow: hidden;
+}
+.blog{
+	background-color: gold;
+	min-height: 400px;
+	width: 40%;
+	float: left;
+}
+.contact{
+	background-color:Tomato;
+	min-height: 400px;
+	width: 60%;
+	float: right;
+}
+.footer{
+	min-height: 100px;
+	background-color: DodgerBlue;
+}
